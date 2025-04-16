@@ -10,7 +10,7 @@
 
 - A Framework to Leverage clustering and LSTM arcitecture for ETF momentum based Pairs Trading [ETF Pairs Trading using Machine Learning](https://github.com/karandeeps18/PairsTradingUsingMachineLearning)
 
-- SQA ALPHATHON 24, AllianceBernstien Problem 2. "Outperforming S&P 500 using LLM". - A Multimodal Approach [ETF Pairs Trading using Machine Learning](https://github.com/karandeeps18/SQA-Alphathon-24-LLM-NYC-Karandeep)
+- SQA ALPHATHON 24, AllianceBernstien Problem 2. "Outperforming S&P 500 using LLM". - [A multimodal Approach to generate Alpha using Factor Model](https://github.com/karandeeps18/SQA-Alphathon-24-LLM-NYC-Karandeep)
 
 
 
