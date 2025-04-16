@@ -9,6 +9,8 @@
 
 - 🤝 I’m looking for help with [ETF Pairs Trading using Machine Learning](https://github.com/karandeeps18/PairsTradingUsingMachineLearning)
 
+- SQA ALPHATHON 24, AllianceBernstien Problem 2. "Outperforming S&P 500 using LLM". - A Multimodal Approach [ETF Pairs Trading using Machine Learning](https://github.com/karandeeps18/SQA-Alphathon-24-LLM-NYC-Karandeep)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/karansonewane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karansonewane" height="30" width="40" /></a>
