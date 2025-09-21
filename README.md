@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Karandeep Sonewane</h1>
 <h3 align="center">Quant Researcher | Quant Dev | Quant Analyst</h3>
-<h3 align="center">MS in Quantitative Finance at Fordham University</h3>
 
 - 🔭 I’m currently working on [Black Scholes Option Pricing Using Neural Network](https://github.com/karandeeps18/BlackScholesFunctionApproximationUsingDNN)
 
