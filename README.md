@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Karandeep Sonewane</h1>
 <h3 align="center">Quant Researcher | Quant Dev | Quant Analyst</h3>
 
+- C++ Option Pricer for FX Vanilla Options [FXOptionPricing](https://github.com/karandeeps18/qflibOptionPricer)
+
 - 🔭 I’m currently working on [Black Scholes Option Pricing Using Neural Network](https://github.com/karandeeps18/BlackScholesFunctionApproximationUsingDNN)
 
 - Option Pricing Library [Quant Option Pricing Library](https://github.com/karandeeps18/qflib-0.8.0)
