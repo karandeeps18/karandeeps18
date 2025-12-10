@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Karandeep Sonewane</h1>
-<h3 align="center">Quant Researcher | Quant Dev | Quant Analyst</h3>
+<h3 align="center"> Quantitative Engineer (Data + Research)
 
 - C++ Option Pricer for FX Vanilla Options [FXOptionPricing](https://github.com/karandeeps18/qflibOptionPricer)
 
