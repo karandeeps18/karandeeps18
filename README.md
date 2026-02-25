@@ -2,15 +2,11 @@
 <h3 align="center"> Quantitative Engineer (Data + Research) </h3> 
 
 
-- C++ Option Pricer for FX Vanilla Options [FXOptionPricing](https://github.com/karandeeps18/qflibOptionPricer)
-
-- 🔭 I’m currently working on [Black Scholes Option Pricing Using Neural Network](https://github.com/karandeeps18/BlackScholesFunctionApproximationUsingDNN)
-
-- Option Pricing Library [Quant Option Pricing Library](https://github.com/karandeeps18/qflib-0.8.0)
+- 🔭 I’m currently working on [Black Scholes Option Pricing Using Neural Network](https://github.com/karandeeps18/Option-Pricing-using-Neural-Network)
 
 - A Framework to Leverage clustering and LSTM arcitecture for ETF momentum based Pairs Trading [ETF Pairs Trading using Machine Learning](https://github.com/karandeeps18/PairsTradingUsingMachineLearning)
 
-- SQA ALPHATHON 24, AllianceBernstien Problem 2. "Outperforming S&P 500 using LLM". - [A multimodal Approach to generate Alpha using Factor Model](https://github.com/karandeeps18/SQA-Alphathon-24-LLM-NYC-Karandeep)
+- SQA ALPHATHON 24, "Outperforming S&P 500 using LLM". - [A multimodal Approach to generate Alpha using Factor Model](https://github.com/karandeeps18/SQA-Alphathon-24-LLM-NYC-Karandeep)
 
 
 
